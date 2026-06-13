@@ -1,6 +1,6 @@
 <img src="https://i.imgur.com/Q7L9kck.png" align="left" width="350" alt="ful1e5 with halo"/>
 
-## **I'm Jai Thakur** <img src="https://media.istockphoto.com/id/1644745153/vector/angry-cat-using-a-laptop.jpg?s=612x612&w=0&k=20&c=AHbZ69oGZQo0n5XbPLhjaX0NAD-xz0dEX9WfM2Jzt2I=" width="50"> 
+## **I'm Jai Thakur**  
 <a href="https://www.linkedin.com/in/jaithakur0005/"><img src="https://img.shields.io/static/v1?label=&message=LINKEDIN&color=087bb7&style=for-the-badge&logo=linkedi"></a>
 
 ### *Cybersecurity Engineer <img src="img/icons8-maintenance.gif" width="27px" height="27px" >*
@@ -14,7 +14,7 @@
 - Cloud Security. <img src="img/icons8-checked.gif" width="20px" height="20px">
 
 <br>
-## 🛠️ Tech Arsenal
+ 🛠️ Tech Arsenal <img src="img/icons8-maintenance.gif" width="27px" height="27px" >*
 
 <div align="center">
 
