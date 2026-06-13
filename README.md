@@ -1,21 +1,38 @@
-<p align="left">
-<img src="https://i.imgur.com/Q7L9kck.png" align="left" width="350" alt="ful1e5 with halo"/>
+<img src="https://i.imgur.com/Q7L9kck.png" align="left" width="350" alt="Jai Thakur"/>
 
-## **I'm Jai Thakur**  
-<a href="https://www.linkedin.com/in/jaithakur0005/"><img src="https://img.shields.io/static/v1?label=&message=LINKEDIN&color=087bb7&style=for-the-badge&logo=linkedi"></a>
+<h1>I'm Jai Thakur</h1>
 
-### *Cybersecurity Engineer <img src="img/icons8-maintenance.gif" width="27px" height="27px" >*
+<a href="https://www.linkedin.com/in/jaithakur0005/">
+  <img src="https://img.shields.io/static/v1?label=&message=LINKEDIN&color=087bb7&style=for-the-badge&logo=linkedin" />
+</a>
 
-### Bio <img src="img/icons8-task.gif"  width="25px" height="25px" >
+<br><br>
 
-- Cybersecurity & Threat Analysis. `¯\_( ͡❛ ͜ʖ ͡❛)_/¯` <img src="img/icons8-checked.gif" width="20px" height="20px">
+<h3><i>Cybersecurity Engineer</i> <img src="img/icons8-maintenance.gif" width="27" height="27"></h3>
 
-- Security Research  <img src="img/icons8-checked.gif" width="20px" height="20px">
+<h3>
+  Bio <img src="img/icons8-task.gif" width="25" height="25">
+</h3>
 
-- Cloud Security. <img src="img/icons8-checked.gif" width="20px" height="20px">
+<ul>
+  <li>
+    Cybersecurity &amp; Threat Analysis.
+    <code>¯\_( ͡❛ ͜ʖ ͡❛)_/¯</code>
+    <img src="img/icons8-checked.gif" width="20" height="20">
+  </li>
 
+  <li>
+    Security Research
+    <img src="img/icons8-checked.gif" width="20" height="20">
+  </li>
 
-<br>
+  <li>
+    Cloud Security
+    <img src="img/icons8-checked.gif" width="20" height="20">
+  </li>
+</ul>
+
+<br clear="left">
 
 ---
 
