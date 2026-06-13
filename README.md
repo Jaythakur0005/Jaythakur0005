@@ -14,8 +14,9 @@
 - Cloud Security. <img src="img/icons8-checked.gif" width="20px" height="20px">
 
 
-<div align="center">
- 
+<br>
+
+---
  🛠️ Tech Arsenal 
 
 <div align="center">
