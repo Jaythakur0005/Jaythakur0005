@@ -16,10 +16,13 @@
 
 <br>
 
+
 ---
-🛠️ Tech Arsenal 
+
+## 🛠️ Tech Arsenal
 
 <div align="center">
+
 
 ### Languages
 <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,html,css" />
