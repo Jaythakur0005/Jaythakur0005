@@ -1,12 +1,12 @@
-<table>
+<table width="100%">
 <tr>
-<td width="450%" valign="top">
+<td width="40%" align="center" valign="middle">
 
-<img src="https://i.imgur.com/Q7L9kck.png" width="320" alt="Jai Thakur"/>
+<img src="https://i.imgur.com/Q7L9kck.png" width="400" alt="Jai Thakur"/>
 
 </td>
 
-<td width="550%" valign="top">
+<td width="60%" valign="middle">
 
 <h1>I'm Jai Thakur</h1>
 
@@ -46,8 +46,6 @@
 </td>
 </tr>
 </table>
-
-<br clear="both">
 
 ## 🛠️ Tech Arsenal
 
