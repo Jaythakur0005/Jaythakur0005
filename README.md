@@ -14,6 +14,32 @@
 - Cloud Security. <img src="img/icons8-checked.gif" width="20px" height="20px">
 
 <br>
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### Languages
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,html,css" />
+
+### Frameworks & Libraries
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,bootstrap" />
+
+### Databases & Tools
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode,linux" />
+
+### Security Tools & Specializations
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white"/>
+<img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
+
+</div>
+
+---
+
+<div align="center">
 
 <!--
 **Jaythakur0005/Jaythakur0005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
