@@ -1,3 +1,4 @@
+<p align="left">
 <img src="https://i.imgur.com/Q7L9kck.png" align="left" width="350" alt="ful1e5 with halo"/>
 
 ## **I'm Jai Thakur**  
@@ -14,7 +15,7 @@
 - Cloud Security. <img src="img/icons8-checked.gif" width="20px" height="20px">
 
 
-
+<br>
 
 ---
 
