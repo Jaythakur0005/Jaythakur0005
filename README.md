@@ -1,6 +1,6 @@
 <table>
 <tr>
-<td width="35%" valign="top">
+<td width="55%" valign="top">
 
 <img src="https://i.imgur.com/Q7L9kck.png" width="320" alt="Jai Thakur"/>
 
