@@ -1,5 +1,23 @@
 <img src="https://i.imgur.com/Q7L9kck.png" align="left" width="350" alt="Jai Thakur"/>
 
+<div style="padding-top: 70px;"></div>
+
+## I'm Jai Thakur
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img src="https://i.imgur.com/Q7L9kck.png" align="left" width="350" alt="Jai Thakur"/>
+
 <h1>I'm Jai Thakur</h1>
 
 <a href="https://www.linkedin.com/in/jaithakur0005/">
