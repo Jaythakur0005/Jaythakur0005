@@ -1,6 +1,6 @@
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="85%" valign="top">
 
 <img src="https://i.imgur.com/Q7L9kck.png" width="320" alt="Jai Thakur"/>
 
@@ -25,7 +25,7 @@
 <ul>
   <li>
     Cybersecurity &amp; Threat Analysis
-    <code>¯\_( ͡❛ ͜ʖ ͡❛)_/¯</code>
+    
     <img src="img/icons8-checked.gif" width="20" height="20">
   </li>
 
