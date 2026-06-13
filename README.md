@@ -14,7 +14,6 @@
 - Cloud Security. <img src="img/icons8-checked.gif" width="20px" height="20px">
 
 
-<br>
 
 
 ---
@@ -58,6 +57,16 @@
 </div>
 
 ---
+
+---
+## 🌟 Status  `(͠≖ ͜ʖ͠≖)👌`
+
+<p align="center"><img src="https://github-readme-stats-eta-sepia-45.vercel.app/api?username=khangtictoc&show_icons=true&theme=tokyonight"></p>
+<p align="center"><img src="https://github-readme-stats-eta-sepia-45.vercel.app/api/top-langs/?username=khangtictoc&theme=tokyonight&layout=compact&langs_count=8"></p>
+
+<p align="center" ><img align="center" src="https://github-readme-streak-stats-zeta-lyart.vercel.app/?user=khangtictoc&theme=tokyonight&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="khangtictoc" /></p>
+
+</center>
 <!--
 **Jaythakur0005/Jaythakur0005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
