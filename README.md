@@ -1,12 +1,12 @@
 <table>
 <tr>
-<td width="40%" valign="top">
+<td width="450%" valign="top">
 
 <img src="https://i.imgur.com/Q7L9kck.png" width="320" alt="Jai Thakur"/>
 
 </td>
 
-<td width="60%" valign="top">
+<td width="55%" valign="top">
 
 <h1>I'm Jai Thakur</h1>
 
