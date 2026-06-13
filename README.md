@@ -6,7 +6,7 @@
 
 </td>
 
-<td width="55%" valign="top">
+<td width="550%" valign="top">
 
 <h1>I'm Jai Thakur</h1>
 
