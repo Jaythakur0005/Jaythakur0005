@@ -1,12 +1,12 @@
 <table>
 <tr>
-<td width="85%" valign="top">
+<td width="75%" valign="top">
 
 <img src="https://i.imgur.com/Q7L9kck.png" width="320" alt="Jai Thakur"/>
 
 </td>
 
-<td width="85%" valign="top">
+<td width="65%" valign="top">
 
 <h1>I'm Jai Thakur</h1>
 
@@ -16,16 +16,19 @@
 
 <br><br>
 
-<h3><i>Cybersecurity Engineer</i> <img src="img/icons8-maintenance.gif" width="27" height="27"></h3>
+<h3>
+  <i>Cybersecurity Engineer</i>
+  <img src="img/icons8-maintenance.gif" width="27" height="27">
+</h3>
 
 <h3>
-  Bio <img src="img/icons8-task.gif" width="25" height="25">
+  Bio
+  <img src="img/icons8-task.gif" width="25" height="25">
 </h3>
 
 <ul>
   <li>
     Cybersecurity &amp; Threat Analysis
-    
     <img src="img/icons8-checked.gif" width="20" height="20">
   </li>
 
