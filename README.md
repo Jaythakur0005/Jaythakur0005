@@ -1,27 +1,17 @@
-<img src="https://i.imgur.com/Q7L9kck.png" align="left" width="350" alt="Jai Thakur"/>
+<table>
+<tr>
+<td width="35%" valign="top">
 
-<div style="padding-top: 70px;"></div>
+<img src="https://i.imgur.com/Q7L9kck.png" width="320" alt="Jai Thakur"/>
 
-## I'm Jai Thakur
+</td>
 
-
-
-
-
-
-
-
-
-
-
-
-
-<img src="https://i.imgur.com/Q7L9kck.png" align="left" width="350" alt="Jai Thakur"/>
+<td width="65%" valign="top">
 
 <h1>I'm Jai Thakur</h1>
 
 <a href="https://www.linkedin.com/in/jaithakur0005/">
-  <img src="https://img.shields.io/static/v1?label=&message=LINKEDIN&color=087bb7&style=for-the-badge&logo=linkedin" />
+  <img src="https://img.shields.io/badge/LinkedIn-087bb7?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <br><br>
@@ -34,7 +24,7 @@
 
 <ul>
   <li>
-    Cybersecurity &amp; Threat Analysis.
+    Cybersecurity &amp; Threat Analysis
     <code>¯\_( ͡❛ ͜ʖ ͡❛)_/¯</code>
     <img src="img/icons8-checked.gif" width="20" height="20">
   </li>
@@ -50,9 +40,11 @@
   </li>
 </ul>
 
-<br clear="left">
+</td>
+</tr>
+</table>
 
----
+<br clear="both">
 
 ## 🛠️ Tech Arsenal
 
